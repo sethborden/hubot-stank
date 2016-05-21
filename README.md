@@ -21,8 +21,9 @@ Then add **hubot-stank** to your `external-scripts.json`:
 ## Sample Interaction
 
 ```
-user1>> hubot hello
-hubot>> hello!
+user1>> hubot stank
+hubot>> I can't even deal with the whiny kid junk...here's some nickleback
+        http://www.youtube.com/watch?v=IYnuSsM7tRw
 ```
 
 ## NPM Module
