@@ -23,6 +23,9 @@ module.exports = (robot) ->
         "nickleback",
         "hoobastank",
         "limp bizkit",
+        "daughtry",
+        "3 Doors Down",
+        "P.O.D."
         "puddle of mudd",
         "seether",
         "staind"
